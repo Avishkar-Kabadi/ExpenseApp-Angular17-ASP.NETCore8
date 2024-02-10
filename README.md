@@ -55,7 +55,7 @@ Clone the repository:
 With this project I have implemented Asp.Net Core 8 Web API with Angular 17 Application Complete.
 
 ### Dependences Web API
-#### Packetes Nuget:
+#### PackegesNuget:
 >- EntityFramework
 >- Microsoft.EntityFrameworkCore
 >- Microsoft.EntityFrameworkCore.Design
