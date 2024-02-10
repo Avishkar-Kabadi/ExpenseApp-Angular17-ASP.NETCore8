@@ -84,13 +84,13 @@ With this project I have implemented Asp.Net Core 8 Web API with Angular 17 Appl
 
 ## Database Setup:
 
->- Ensure that your SQL Server is running.
+- Ensure that your SQL Server is running.
 
->- Update the database connection string in the appsettings.json file.
+- Update the database connection string in the appsettings.json file.
 
->- Run Migrations:
+- Run Migrations:
 
->- Run the following commands in the terminal from the backend directory:
+- Run the following commands in the terminal from the backend directory:
 
 
 
@@ -99,7 +99,7 @@ With this project I have implemented Asp.Net Core 8 Web API with Angular 17 Appl
 
 ` dotnet ef migrations add InitialMigration`
 
-`dotnet ef database update`
+` dotnet ef database update`
 
 ` Now, you should have the Expense Manager App up and running!`
 
