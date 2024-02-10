@@ -52,17 +52,17 @@ Clone the repository:
 
 ## Backend Setup:
 
-With this project i've implemented Asp.Net Core 6 Web API with Angular 13 Application Complete.
+With this project I have implemented Asp.Net Core 8 Web API with Angular 17 Application Complete.
 
 ### Dependences Web API
 #### Packetes Nuget:
-- EntityFramework
-- Microsoft.EntityFrameworkCore
-- Microsoft.EntityFrameworkCore.Design
-- Microsoft.EntityFrameworkCore.SqlServer
-- Microsoft.EntityFrameworkCore.SqlServer.Design
-- Microsoft.EntityFrameworkCore.Tools
-- Swashbuckle.AspNetCore
+>- EntityFramework
+>- Microsoft.EntityFrameworkCore
+>- Microsoft.EntityFrameworkCore.Design
+>- Microsoft.EntityFrameworkCore.SqlServer
+>- Microsoft.EntityFrameworkCore.SqlServer.Design
+>- Microsoft.EntityFrameworkCore.Tools
+>- Swashbuckle.AspNetCore
 
 - Open the backend solution in Visual Studio or Visual Studio Code.
 
