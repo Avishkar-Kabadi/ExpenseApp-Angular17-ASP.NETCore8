@@ -1,0 +1,57 @@
+<form>
+    <div class="mb-3">
+      <label for="expenseTypeId" class="form-label">Expense Type</label>
+      <input type="text" class="form-control" name="expenseTypeId" [(ngModel)]="expenseTypeId" *ngIf="expense.id!=0" disabled>
+      <select class="form-control" name="expenseTypeId" id="expenseName" [(ngModel)]="expenseTypeId" *ngIf="expense.id==0">
+        <option *ngFor="let type of expenseTypesList$|async" [value]="type.id">{{type.expenseName}}</option>
+
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="status" class="form-label">Status</label>
+      <select class="form-control" name="status" id="status" [(ngModel)]="status">
+        <option *ngFor="let status of statusList$|async" [value]="status.statusOption">{{status.statusOption}}</option>
+      </select>
+    </div>
+
+    <div class="mb-3">
+      <label for="selectedDate" class="form-label">Date</label>
+      <input type="date" class="form-control" [(ngModel)]="selectedDate" name="selectedDate">
+    </div>
+
+    <div class="mb-3">
+      <label for="pendingAmount" class="form-label"> Paid Amount</label>
+      <input type="text" class="form-control" [(ngModel)]="pendingAmount" name="pendingAmount">
+    </div>
+    
+    
+   
+    <div class="mb-3">
+      <label for="comments" class="form-label">Comments</label>
+      <input type="text" class="form-control" [(ngModel)]="comments" name="comments">
+    </div>
+    <button (click)="addExpense()" *ngIf="expense.id==0" class="btn btn-primary">
+      Add
+    </button>
+    <button (click)="updateExpense()" *ngIf="expense.id!=0" class="btn btn-primary">
+      Update
+    </button>
+  </form>
+
+  <table class="table m-2" >
+    <tr>
+      <th>Total Amount</th>
+    <br/>
+    <th></th>
+      <th>Pending Amount</th>
+     
+    </tr>
+    <tr>
+      <td>100000</td>
+      <td></td>
+      <br>
+      <td>2000</td>
+      <br/>
+     
+    </tr>
+  </table>

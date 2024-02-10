@@ -1,0 +1,17 @@
+<form>
+    <div class="mb-3">
+      <label for="expenseName" class="form-label">Expense Name</label>
+      <input type="text" class="form-control" [(ngModel)]="expenseName" name="expenseName">
+    </div>
+
+    <div class="mb-3">
+      <label for="totalAmount" class="form-label">Total Amount</label>
+      <input type="text" class="form-control" [(ngModel)]="totalAmount" name="totalAmount">
+    </div>
+    <button (click)="addExpenseTypes()" *ngIf="expensetypes.id==0" class="btn btn-primary">
+      Add
+    </button>
+    <button (click)="updateExpenseTypes()" *ngIf="expensetypes.id!=0" class="btn btn-primary">
+      Update
+    </button>
+  </form>
