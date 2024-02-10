@@ -70,7 +70,6 @@ With this project I have implemented Asp.Net Core 8 Web API with Angular 17 Appl
 
 - If using Visual Studio Code, run the following commands in the terminal:
 
-- bash
 
 - **Copy code**
 
