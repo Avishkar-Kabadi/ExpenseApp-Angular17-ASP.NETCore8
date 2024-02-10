@@ -1,4 +1,4 @@
-# Introduction :  Expense App Asp.Net Core 8 Web API with Angular 17
+ii# Introduction :  Expense App Asp.Net Core 8 Web API with Angular 17
 
 
 Welcome to the Expense Manager App! This application is built using Angular 17 for the front end and ASP.NET Core 8 for the back end. It is designed to provide basic operations related to managing expenses.
@@ -101,7 +101,7 @@ With this project I have implemented Asp.Net Core 8 Web API with Angular 17 Appl
 
 ` dotnet ef database update`
 
-` Now, you should have the Expense Manager App up and running!`
+  Now, you should have the Expense Manager App up and running!
 
 
 ## Contributing
