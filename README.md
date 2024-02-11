@@ -30,7 +30,7 @@ Clone the repository:
 
 **Copy code**
 
-` git clone https://github.com/your-username/expense-manager-app.git `
+` git clone https://github.com/Avishkar-Kabadi/expense-manager-app.git `
 
 
 
