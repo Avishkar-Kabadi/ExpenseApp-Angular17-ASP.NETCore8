@@ -34,7 +34,7 @@ Clone the repository:
 
 
 
-### Frontend Setup:
+## Frontend Setup:
 
 
 
