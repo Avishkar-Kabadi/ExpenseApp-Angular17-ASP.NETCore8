@@ -30,11 +30,11 @@ Clone the repository:
 
 **Copy code**
 
-` git clone https://github.com/your-username/expense-manager-app.git `
+` git clone https://github.com/Avishkar-Kabadi/Expense-app.git `
 
 
 
-### Frontend Setup:
+## Frontend Setup:
 
 
 
@@ -52,10 +52,8 @@ Clone the repository:
 
 ## Backend Setup:
 
-With this project I have implemented Asp.Net Core 8 Web API with Angular 17 Application Complete.
-
-### Dependences Web API
-#### PackegesNuget:
+### Dependencies Web API
+#### Nuget Packages :
 >- EntityFramework
 >- Microsoft.EntityFrameworkCore
 >- Microsoft.EntityFrameworkCore.Design
