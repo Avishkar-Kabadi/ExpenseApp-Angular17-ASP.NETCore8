@@ -53,7 +53,7 @@ Clone the repository:
 ## Backend Setup:
 
 ### Dependencies Web API
-#### PackegesNuget:
+#### Nuget Packages :
 >- EntityFramework
 >- Microsoft.EntityFrameworkCore
 >- Microsoft.EntityFrameworkCore.Design
