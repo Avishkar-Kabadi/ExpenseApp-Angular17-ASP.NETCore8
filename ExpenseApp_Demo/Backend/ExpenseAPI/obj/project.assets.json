@@ -8426,11 +8426,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\Backend\\ExpenseAPI\\ExpenseAPI.csproj",
+      "projectUniqueName": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\ExpenseApp_Demo\\Backend\\ExpenseAPI\\ExpenseAPI.csproj",
       "projectName": "ExpenseAPI",
-      "projectPath": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\Backend\\ExpenseAPI\\ExpenseAPI.csproj",
+      "projectPath": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\ExpenseApp_Demo\\Backend\\ExpenseAPI\\ExpenseAPI.csproj",
       "packagesPath": "C:\\Users\\Mr. Wayne\\.nuget\\packages\\",
-      "outputPath": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\Backend\\ExpenseAPI\\obj\\",
+      "outputPath": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\ExpenseApp_Demo\\Backend\\ExpenseAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mr. Wayne\\AppData\\Roaming\\NuGet\\NuGet.Config",
