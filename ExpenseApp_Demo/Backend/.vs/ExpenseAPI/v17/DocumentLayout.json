@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\ExpenseApp_Demo\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2592538B-3A7C-48F0-9A03-3BAAEB92CEB0}|ExpenseAPI\\ExpenseAPI.csproj|d:\\expenseapp-angular17-asp.netcore8\\expenseapp_demo\\backend\\expenseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2592538B-3A7C-48F0-9A03-3BAAEB92CEB0}|ExpenseAPI\\ExpenseAPI.csproj|solutionrelative:expenseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2592538B-3A7C-48F0-9A03-3BAAEB92CEB0}|ExpenseAPI\\ExpenseAPI.csproj|d:\\expenseapp-angular17-asp.netcore8\\expenseapp_demo\\backend\\expenseapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2592538B-3A7C-48F0-9A03-3BAAEB92CEB0}|ExpenseAPI\\ExpenseAPI.csproj|solutionrelative:expenseapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2592538B-3A7C-48F0-9A03-3BAAEB92CEB0}|ExpenseAPI\\ExpenseAPI.csproj|d:\\expenseapp-angular17-asp.netcore8\\expenseapp_demo\\backend\\expenseapi\\migrations\\20240209084318_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2592538B-3A7C-48F0-9A03-3BAAEB92CEB0}|ExpenseAPI\\ExpenseAPI.csproj|solutionrelative:expenseapi\\migrations\\20240209084318_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\ExpenseApp_Demo\\Backend\\ExpenseAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseAPI\\Program.cs",
+              "ToolTip": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\ExpenseApp_Demo\\Backend\\ExpenseAPI\\Program.cs",
+              "RelativeToolTip": "ExpenseAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T11:56:52.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\ExpenseApp_Demo\\Backend\\ExpenseAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseAPI\\appsettings.json",
+              "ToolTip": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\ExpenseApp_Demo\\Backend\\ExpenseAPI\\appsettings.json",
+              "RelativeToolTip": "ExpenseAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-23T11:56:52.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240209084318_A.cs",
+              "DocumentMoniker": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\ExpenseApp_Demo\\Backend\\ExpenseAPI\\Migrations\\20240209084318_A.cs",
+              "RelativeDocumentMoniker": "ExpenseAPI\\Migrations\\20240209084318_A.cs",
+              "ToolTip": "D:\\ExpenseApp-Angular17-ASP.NETCore8\\ExpenseApp_Demo\\Backend\\ExpenseAPI\\Migrations\\20240209084318_A.cs",
+              "RelativeToolTip": "ExpenseAPI\\Migrations\\20240209084318_A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T11:56:52.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
